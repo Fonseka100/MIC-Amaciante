@@ -53,8 +53,6 @@ https://github.com/jblsouza/Lab-Mic-A
 
 https://github.com/iksmada/TuringMachine
 
-https://github.com/Fonseka100/MIC-Amaciante
-
 https://github.com/matheusvervloet/girassolar
 
 https://github.com/alex-dias/TrabalhoFinalMIC2015
