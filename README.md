@@ -45,3 +45,26 @@ Inicialmente quando o circuito for ligado, o motor de passo começará a girar, 
 A rotina _amaciante_ desligará o motor de passo através do relê, o LCD RGB BackLight irá apresentar uma mensagem indicando que é o momento de colocar o amaciante no cesto de roupas e uma buzina será acionada para alertar o usuário. Após o usuário colocar o amaciante, ele deverá apertar um botão para sinalizar que o procedimento foi feito, este por sua vez irá gerar uma interrupção que irá limpar a mensagem do LCD e o relê irá acionar novamente o motor.
 Seguem imagens do circuito:
 
+## Outros trabalhos desta disciplina
+
+https://github.com/Power041/cancela
+
+https://github.com/jblsouza/Lab-Mic-A
+
+https://github.com/iksmada/TuringMachine
+
+https://github.com/Fonseka100/MIC-Amaciante
+
+https://github.com/matheusvervloet/girassolar
+
+https://github.com/alex-dias/TrabalhoFinalMIC2015
+
+https://github.com/gustavocesarlos/trabalhofinalMic
+
+https://github.com/gabrielNT/LabMicApl_TrabalhoFinal
+
+https://github.com/brunowilliamsap/microcontroladores
+
+https://github.com/rodrigoa1990/Projeto-Microcontroladores
+
+https://github.com/matheusDeAlmeida/trabalhoFinalMicrocontroladores
