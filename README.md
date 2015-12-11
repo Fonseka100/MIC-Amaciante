@@ -47,6 +47,11 @@ Seguem imagens do circuito:
 
 ![Circuito em espera](https://github.com/Fonseka100/MIC-Amaciante/blob/master/Imagens/DSC_0692.JPG)
 
+![Put amaciante](https://github.com/Fonseka100/MIC-Amaciante/blob/master/Imagens/DSC_0693.JPG)
+
+# Considerações finais
+Em um cenário mais realístico, ao invés de de simplementes desligar a máquina e esperar o usuário colocar o amaciante, o projeto traria um dispenser a ser acoplado onde o usuário colocaria o amaciante já desde o início como uma máquina moderna. Ao adentrar na regição crítica, então seria ligada uma bomba que despejaria o amaciante do dispenser direto no cesto de roupas. 
+
 ## Outros trabalhos desta disciplina
 
 https://github.com/Power041/cancela
