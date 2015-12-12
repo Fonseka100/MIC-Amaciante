@@ -50,7 +50,7 @@ Seguem imagens do circuito:
 ![Put amaciante](https://github.com/Fonseka100/MIC-Amaciante/blob/master/Imagens/DSC_0693.JPG)
 
 ## Vídeo
-![Teste do projeto](https://youtu.be/fFYPqXnahxI)
+[Teste do projeto](https://youtu.be/fFYPqXnahxI)
 
 # Considerações finais
 Em um cenário mais realístico, ao invés de simplementes desligar a máquina e esperar o usuário colocar o amaciante, o projeto traria um dispenser a ser acoplado onde o usuário colocaria o amaciante já desde o início como uma máquina moderna. Ao adentrar na regição crítica seria ligada uma bomba que despejaria o amaciante do dispenser direto no cesto de roupas. 
